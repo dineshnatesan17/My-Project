@@ -1,0 +1,15 @@
+CementCompany,CementQuantity,Cementprice,Steelcompany,SteelQuantity,Steelprice,BrickItems,BrickQuantity,BrickPrice ,SandItems,SandQuantity,SandPrice,WoodItems,WoodQuantity,WoodPrice,TilesItems,TilesQuantity,TilesPrice,AggregayeItems,AggregateQuantity,AggregatePrice,status
+ACC Cement,1,328,Tata Steel Ltd,1ton,100,Solid Concrete Block,1NO,20,Sand,1 ton,200,tractor_emulsion,1 lt,399,Johnson Wall Tiles,300x450,30,20MM Blue Metal Construction Aggregates,1,200,pending
+Ambuja Cement,1,327,JSW Steel Ltd,1ton,61, Brick,1NO,10,M Sand,1 ton,150,apex_emulsion,1 lt,278,Brio_Nanovated Vitrified Tiles,600x600,26,40 mm Blue Metal Grade,1,150,pending
+Binani Cement,1,275,Steel Authority of India Ltd,1ton,55,Brick Red Partition Walls Solid Red Brick,1NO,8,P Sand,1 ton,120,Easy_clean,1 lt,150,Durato Wall Tiles,300x450,22,12 mm Blue Metal Grade,1,120,pending
+Birla Cement,1,355,Essar Steel India Ltd,1,"31,000",Fly Ash Bricks,1NO,5,,,,little_master,1 lt,137,AGL Bathroom Tiles,300x450,45,Blue Metal Dust Grade,1,30,pending
+Dalmia Cement,1,450,Jindal Steel & Power Ltd,1,"45,000",Thin Bricks,1NO,18,,,,,,,kajaria K 6029 600x600,600x600,80,6 mm Blue Metal Grade,1,30,pending
+India Cement,1,328,Rashtriya Ispat Nigam Ltd. (RINL),1,"31,000",Elevation Wire Cut Wall Brick,1NO,28,,,,,,,Nitco Amazone ice,600x600,88,20mm Blue Metal Aggregate,1,30,pending
+Jaypee Cement,1,310,Electrosteel Steel Ltd.,1,"43,500",Red Solid Clay Bricks,1NO,10,,,,,,,Exxaro Star White,800x800,90,,,,
+JK Cement,1,367,Jindal Stainless Ltd,1,"51,500",Hollow Fly Ash Blocks & Bricks,1NO,50,,,,,,,Exxaro Montana Brown,800x800,90,,,,
+Shree Cement,1,320,Jindal Stainless (Hisar) Ltd,1,"43,000",Solid Cement Cellolite CLC Blocks,1NO,45,,,,,,,Nitco Diana Beige,600x600,93,,,,
+UltraTech Cement,1,340,,,,CLC Block,1NO,44,,,,,,,Sunheart Walkon Nero,605x605,100,,,,
+,,,,,,Renacon CLC Blocks,1NO,45,,,,,,,AGL Granure Hard Mocha,600x600,141,,,,
+,,,,,,CLC & AAC Side Wall Block,1NO,90,,,,,,,Simpolo Alaska White,800x800,180,,,,
+,,,,,,,,,,,,,,,Somany HimalayaMarfil,300x300,496,,,,
+,,,,,,,,,,,,,,,Johnson vitrified(Box),600x600,605,,,,
